@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(205, 223, 243);
+}
+.input{
+    margin-top: 10em;
+    border: none;
+    border: 5px solid rgb(248, 47, 255);
+    border-radius: 20px;
+    height: 30px;
+    color: rgb(154, 108, 187);
+    outline: none;
+}
+p{
+    color: grey;
+    text-align: center;
+}
+.spn{
+    color: rgb(34, 178, 58);
+}
